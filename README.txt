@@ -1,20 +1,12 @@
 FROM STARTER TO SOURDOUGH — FFA SAE WEBSITE
 
-This is a free static website starter built for an FFA SAE focused on sourdough fermentation education.
+Student: Alexandra
+School: Visalia Early Technical College
+Grade: 9th
+FFA Chapter: To be added when confirmed
 
-Files:
-- index.html = Home
-- science.html = Sourdough Science
-- lessons.html = Lesson hub
-- lesson-1.html through lesson-6.html = lesson placeholders
-- portfolio.html = SAE portfolio
-- journal.html = project journal
-- resources.html = resources
-- style.css = design
+Project focus: Educating others about sourdough fermentation and teaching people how to make their own sourdough.
 
-To edit:
-Open any .html file in a text editor and replace [ADD...] / [WRITE...] placeholders.
-For photos, upload image files and add them to the HTML where desired.
+Why I chose it: I have always wanted to do something like this and I love to bake, so I put the two together.
 
-Publishing:
-GitHub Pages can publish HTML/CSS/JS files from a repository. See GitHub's official Pages documentation.
+Main goal: To share my knowledge with people who can really use it, educate as many people as possible, and help others see that they can do it too and are capable of anything.
